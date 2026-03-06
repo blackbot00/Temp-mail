@@ -3,4 +3,5 @@ tgcrypto
 motor
 requests
 python-dotenv
-
+qrcode
+pillow
